@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+
+* {box-sizing: border-box;
+    margin: 0 0;
+padding: 0 0}
+.navbar {
+    background-color: blueviolet;
+    width: 100%;
+    color: white;
+    position: fixed;
+    margin-bottom: 0px;
+    z-index: 200
+
+    
+}
+.col-md {overflow-x: hidden;}
+img {margin-right: 0;
+    padding-right:  0px;
+     max-height: 400px;
+    }
+
+.logo {justify-items: center;
+    padding-top: 20px;
+    font-family:  'Stint Ultra Condensed', cursive;
+    font-size: 20px;
+    font-weight: 20px
+       }
+.header {
+height: 200px;
+padding: 0 0 ;
+margin: 0 0 
+}
+button {margin: auto auto}
+.pages {padding-top: 20px;
+    font-family:  'Stint Ultra Condensed', cursive;
+    }    
+li {display: inline}
+.content {
+    background-color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.pageList {list-style-type: none;
+    margin-right: 10px;
+    display: inline;
+    position: relative}
+.footer {background-color: blueviolet;
+         margin-bottom: 0;
+        height: 200px;
+        color: white}
+hr {background-color: white}
+a {text-align: none;
+    color: inherit;
+    background-color: white
+}
+.icon-github-sign {color: white}
+.icon-facebook-sign {color: white}
+.icon-twitter-sign {color: white}
